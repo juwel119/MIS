@@ -7,6 +7,8 @@ Developer:	John Sokpo
 Updates:	0
 
 
+
+
 *Available Features:
 *Admin Panel
 *Doctor Panel
@@ -32,6 +34,10 @@ Updates:	0
 *Update User Profile
 *System Settings
 *Notice Management
+
+
+
+
 
 **Admin Login Details**
 
